@@ -62,10 +62,4 @@ Les candidats sont classés à l'aide d'un modèle **LightGBM Ranker** optimisé
 ## Résultats 
 Les prédictions générées font un score de 0.2767 sur le test de validation (Le premier score du hackathon est 0.284), et un score de 0.22 sur le test finale  (Premier score est 0.25)
 
-## Prérequis et Données
 
-* `transactions.csv` : Historique des achats.
-* `clients.csv` : Données démographiques des utilisateurs.
-* `products.csv` : Catalogue et hiérarchie des produits.
-* `stocks.csv` : Disponibilité locale.
-* `test_clients_validation.csv` : Liste des clients cibles.
