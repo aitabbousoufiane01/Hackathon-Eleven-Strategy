@@ -9,6 +9,7 @@ Le dépôt contient le système  recommandation de produits que j'ai  développ�
 * `products.csv` : Catalogue et hiérarchie des produits.
 * `stocks.csv` : Disponibilité locale.
 * `test_clients_validation.csv` : Liste des clients cibles.
+* Le fichier contenant les transactions est trop grand, voilà le lien Kaggle pour le télécharger: https://www.kaggle.com/datasets/soufianeaitabbou/transactions-eleven-strategy-hackathon
 
 ##  Architecture du Modèle
 Le système repose sur un pipeline de Machine Learning structuré en trois grandes phases :
